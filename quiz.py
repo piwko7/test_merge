@@ -6,6 +6,7 @@ def show_question(question):
     global points
 
     print()
+    print('Test')
     print(question["pytanie"])
     print("a:", question["a"])
     print("b:", question["b"])
